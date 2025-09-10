@@ -1,4 +1,8 @@
+openjdk:17-jdk-alpine
+nginx:1.26.1
+maven:3.9.5
+jenkins/jenkins:lts-jdk17
+gitlab/gitlab-ce:16.11.10-ce.0
 mysql:5.7.44
 redis:6.2.14
 nacos/nacos-server:v2.2.1
-nginx:1.26.1
