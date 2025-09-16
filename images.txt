@@ -1,1 +1,1 @@
-sonatype/nexus3:3.81.0
+mongodb/mongodb-community-server:6.0.25-ubi8
