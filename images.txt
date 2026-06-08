@@ -1,1 +1,1 @@
-apache/rocketmq:5.3.4
+docker pull mysql:8.0.36
